@@ -13,3 +13,29 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Built files
+*.iml
+/.idea/
+/.gradle/
+/build/
+/app/build/
+/local.properties
+/.cxx/
+
+# Android Studio
+*.hprof
+*.iws
+captures/
+.navigation/
+.externalNativeBuild/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Firebase config (optional - include if you want to share)
+# google-services.json
+
+# Logs
+*.log
